@@ -6,7 +6,7 @@
 
 # Introduction to Creative Writing
 
-![alt text](https://www.greenbiz.com/sites/default/files/images/articles/featured/communicationsstock.jpg)
+![alt text](https://clearview.libnet.info/images/events/clearview/creative_writing_club.jpg)
 
 ## Course Description
 
