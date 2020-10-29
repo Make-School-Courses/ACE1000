@@ -249,10 +249,10 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [https://docs.google.com/document/d/1OKEUALbWCnQJBYpQwcrbQ7PO4mBXYlEB214e_WSFo-M/edit](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 1](https://docs.google.com/document/d/1OKEUALbWCnQJBYpQwcrbQ7PO4mBXYlEB214e_WSFo-M/edit) |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment]| 
+| [Assignment 2](https://docs.google.com/document/d/1rTw9HD9cpcTnRXpl6nEp9EsesZy_FR7E8Xmzuy-L6jw/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 3](https://docs.google.com/document/d/1ZbFKvMjk5A3dLXSwuWpmlg0lYbPBR0hiIpgFvYjCTi8/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 4](https://docs.google.com/document/d/1fSSc7fWCMKGJKmPqK8cKoaS4K7_o5GsUbvyLUCp0ib4/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
 ## Class Assignments
 
