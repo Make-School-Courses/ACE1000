@@ -4,7 +4,9 @@
   </a>
 </p>
 
-# Title
+# Introduction to Creative Writing
+
+![alt text](https://www.greenbiz.com/sites/default/files/images/articles/featured/communicationsstock.jpg)
 
 ## Course Description
 
@@ -24,8 +26,6 @@ In this course, we will explore the many forms of creative writing, including po
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
 
 ## Learning Outcomes
-
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 
 By the end of the course, you will be able to ...
 
