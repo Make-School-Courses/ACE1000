@@ -6,20 +6,14 @@
 
 # Title
 
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
-
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
-
-### Why you should know this (optional)
-
-Explain why students should care to learn the material presented in this class.
+In this course, we will explore the many forms of creative writing, including poetry, fiction, and drama. You will study key terms and concepts in the writing process and practice in peer workshops. You will practice innovative approaches to generate new writing, thoughtful methods for critique, and wild freedom in revision, in response to reading, conversations, and self-reflection.	
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [Effective Communication 1]()
+- [Effective Communication 2]()
 
 ## Course Specifics
 
@@ -35,11 +29,11 @@ Explain why students should care to learn the material presented in this class.
 
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Produce creative writing using a variety of methods
+1. Develop and apply skills of creative insight and critical thinking 
+1. Acquire and refine skills in the craft of writing in various forms and genrest
+1. Gain basic knowledge of writing in a broader social context
+1. Form personal relationship to creative process and methods to generate new writing
 
 
 ## Schedule
@@ -255,7 +249,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
+| [https://docs.google.com/document/d/1OKEUALbWCnQJBYpQwcrbQ7PO4mBXYlEB214e_WSFo-M/edit](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
