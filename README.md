@@ -15,7 +15,7 @@ In this course, we will explore the many forms of creative writing, including po
 ## Prerequisites:  
 
 - [Effective Communication 1]()
-- [Effective Communication 2]()
+- [Effective Communication 2](https://github.com/reginayoong/EC2000)
 
 ## Course Specifics
 
