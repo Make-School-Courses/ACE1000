@@ -81,14 +81,14 @@ Your Gradescope login is your Make School email, and your password can be change
 
 Complete your blog posts and post two comments by the end of class time (Friday 1.10pm for Section A; Friday 5.40pm for Section B). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
 
-Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry
+Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete Assignments 1 to 4 and all the blog posts assignments
+- Complete all 6 assigments and 10 blog posts. 
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
