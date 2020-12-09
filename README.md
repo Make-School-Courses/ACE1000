@@ -54,7 +54,7 @@ By the end of the course, you will be able to ...
 | 11 |  Fri, Apr 16               | [Lesson 7] |
 | 12 |  Fri, Apr 23               | [Lesson 10] |
 | 13 |  Fri, Apr 30               | [Lesson 13] |
-| 14 |  Fri, May 7                | **No Class - Finals Week: Submit Assignment 4:Short Story**  |
+| 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |
 
 ## Assignment Schedule 
 
