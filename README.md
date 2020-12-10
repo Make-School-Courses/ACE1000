@@ -12,12 +12,13 @@
 
 In this course, we will explore the many forms of creative writing, including poetry, fiction, and drama. You will study key terms and concepts in the writing process and practice in peer workshops. You will practice innovative approaches to generate new writing, thoughtful methods for critique, and wild freedom in revision, in response to reading, conversations, and self-reflection.	
 
-## Prerequisites:  
-
-- [Effective Communication 1]()
-- [Effective Communication 2](https://github.com/reginayoong/EC2000)
-
 ## Course Specifics
+
+**Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom)
+
+**Slack Channel**: Section A: creativewriting1-spring-2021; Section B:creativewriting2-spring2021
+
+**My Email**: regina@makeschool.com
 
 **Course Delivery**: online | 17 weeks | 14 sessions
 
@@ -69,9 +70,9 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-1. Gradescope
+1. [Gradescope](gradescope.com)
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -83,6 +84,8 @@ Complete your blog posts and post two comments by the end of class time (**Frida
 
 Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
+We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
+
 
 ## Evaluation
 
@@ -91,6 +94,7 @@ To pass this course you must meet the following requirements:
 - Complete all 6 assigments and 10 blog posts. 
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date. 
 
 ## Make School Course Policies
 
