@@ -22,7 +22,7 @@ In this course, we will explore the many forms of creative writing, including po
 
 **Course Delivery**: online | 17 weeks | 14 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours. 
 
 ## Learning Outcomes
 
