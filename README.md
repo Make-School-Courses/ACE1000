@@ -94,7 +94,7 @@ To pass this course you must meet the following requirements:
 - Complete all 6 assigments and 10 blog posts. 
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date. 
+- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date 
 
 ## Make School Course Policies
 
