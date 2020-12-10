@@ -39,21 +39,21 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Jan 22               | [Lesson 1] |
-|  2 |  Fri, Jan 29               | [Lesson 2] |
-|  3 |  Fri, Feb 5                | [Lesson 3] |
-|  4 |  Fri, Feb 12               | [Lesson 4] |
-|  5 |  Fri, Feb 19               | [Lesson 5] |
-|  6 |  Fri, Feb 26               | [Lesson 6] |
-|  7 |  Fri, Mar 5                | [Lesson 2] |
+|  1 |  Fri, Jan 22               | [Creative Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.ga82a6e1129_0_5) |
+|  2 |  Fri, Jan 29               | [What is Poetry?](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_268) |
+|  3 |  Fri, Feb 5                | [Concrete & Nature Poetry](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_246) |
+|  4 |  Fri, Feb 12               | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) |
+|  5 |  Fri, Feb 19               | [Narrative Poetry II](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_107) |
+|  6 |  Fri, Feb 26               | [What is Prose?](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g98b76e4428_0_128)|
+|  7 |  Fri, Mar 5                | [Short Stories I](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g99de43c480_1_5) |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 8  |  Fri, Mar 19               | [Lesson 10] |
-| 9 |   Fri, Mar 26               | [Lesson 13] |
+| 8  |  Fri, Mar 19               | [Short Stories II](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g9dd8992a41_15_5) |
+| 9 |   Fri, Mar 26               | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Lesson 4] |
-| 11 |  Fri, Apr 16               | [Lesson 7] |
-| 12 |  Fri, Apr 23               | [Lesson 10] |
-| 13 |  Fri, Apr 30               | [Lesson 13] |
+| 10 |  Fri, Apr 9                | [Telling a Story](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.ga67192cd87_0_11) |
+| 11 |  Fri, Apr 16               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_316) |
+| 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |
+| 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |
 | 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |
 
 ## Assignment Schedule 
@@ -79,7 +79,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1qAqPg_XIJndRoJuoI-EC1LPx_kYBogdgcW5nBoOFzUw/edit?usp=sharing)
 
-Complete your blog posts and post two comments by the end of class time (Friday 1.10pm for Section A; Friday 5.40pm for Section B). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
+Complete your blog posts and post two comments by the end of class time (**Friday 1.10pm for Section A; Friday 5.40pm for Section B**). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
 
 Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
