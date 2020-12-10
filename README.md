@@ -46,15 +46,15 @@ By the end of the course, you will be able to ...
 |  5 |  Fri, Feb 19               | [Narrative Poetry II](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_107) | Blog Post 5 |
 |  6 |  Fri, Feb 26               | [What is Prose?](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g98b76e4428_0_128)| Blog Post 6 |
 |  7 |  Fri, Mar 5                | [Short Stories I](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g99de43c480_1_5) | Blog Post 7 |
-| -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 8  |  Fri, Mar 19               | [Short Stories II](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g9dd8992a41_15_5) | 
+| -  |  Fri, Mar 12               | **No Class - Spring Break** |- |
+| 8  |  Fri, Mar 19               | [Short Stories II](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g9dd8992a41_15_5) | - |
 | 9 |   Fri, Mar 26               | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) | Blog Post 8 |
-| -  |  Fri, Apr 2                | **No Class - Good Friday**  |
+| -  |  Fri, Apr 2                | **No Class - Good Friday**  |- |
 | 10 |  Fri, Apr 9                | [Telling a Story](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.ga67192cd87_0_11) | Blog Post 9 |
 | 11 |  Fri, Apr 16               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_316) | Blog Post 10 |
-| 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |
-| 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |
-| 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |
+| 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
+| 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |- |
+| 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
 
 ## Assignment Schedule 
 
