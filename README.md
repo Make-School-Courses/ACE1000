@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Friday at 9:30am–1:10pm (14 class sessions)
 
-| Class |          Date          |                 Topics                  |                 Work Assigned             |
+| Class |          Date          |                 Topics                  |                 Class Work Assigned             |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Fri, Jan 22               | [Creative Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.ga82a6e1129_0_5) | Blog Post 1 |
 |  2 |  Fri, Jan 29               | [What is Poetry?](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_268) | Blog Post 2 |
