@@ -10,34 +10,34 @@
 
 ## Course Description
 
-In this course, we will explore the many forms of creative writing, including poetry, fiction, and drama. You will study key terms and concepts in the writing process and practice in peer workshops. You will practice innovative approaches to generate new writing, thoughtful methods for critique, and wild freedom in revision, in response to reading, conversations, and self-reflection.	
+In this course, we will explore the many forms of creative writing, including poetry, fiction, and drama. You will study key terms and concepts in the writing process and practice in peer workshops. You will practice innovative approaches to generate new writing, thoughtful methods for critique, and wild freedom in revision, in response to reading, conversations, and self-reflection.
 
 ## Course Specifics
 
 **Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom)
 
-**Slack Channel**: Section A: #creativewriting1-spring-2021; Section B: #creativewriting2-spring2021 
+**Slack Channel**: Section A: #creativewriting1-spring-2021; Section B: #creativewriting2-spring2021
 
-This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., "Where is the teaching slides?" or "What time is class again?" 
+This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., "Where is the teaching slides?" or "What time is class again?"
 
-**My Personal Slack**: @reginayoong 
+**My Personal Slack**: @reginayoong
 
-If you have questions your classmates and TA (@Lauren Dutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack. 
+If  you have questions your classmates and TA (@Lauren Dutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
 
-**My Email**: regina@makeschool.com 
+**My Email**: regina@makeschool.com
 
-Email me regarding late submissions requests and/or explanations of extenuating circumstances. 
+Email me regarding late submissions requests and/or explanations of extenuating circumstances.
 
 **Course Delivery**: online | 17 weeks | 14 sessions
 
-**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours.
 
 ## Learning Outcomes
 
 By the end of the course, you will be able to ...
 
 1. Produce creative writing using a variety of methods
-1. Develop and apply skills of creative insight and critical thinking 
+1. Develop and apply skills of creative insight and critical thinking
 1. Acquire and refine skills in the craft of writing in various forms and genrest
 1. Gain basic knowledge of writing in a broader social context
 1. Form personal relationship to creative process and methods to generate new writing
@@ -65,13 +65,13 @@ By the end of the course, you will be able to ...
 | 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |- |
 | 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
 
-## Assignment Schedule 
+## Assignment Schedule
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 5 |  Fri, Feb 12 | 
+| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 5 |  Fri, Feb 12 |
 | [Assignment 2](https://docs.google.com/document/d/165I7ImfrMESelkbtQK2Q2mRyxZCS36sCQwruQxscbN0/edit?usp=sharing) |  Fri, Feb 5 | Fri, Feb 19  |
-| [Assignment 3](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 19   | 
+| [Assignment 3](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 19   |
 | [Assignment 4](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 26 (50% Draft); Fri, May 7 (Final Draft) |
 | [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 23   |
 | [Assignment 6](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 23   |  Fri, Apr 30 |
@@ -88,21 +88,21 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1qAqPg_XIJndRoJuoI-EC1LPx_kYBogdgcW5nBoOFzUw/edit?usp=sharing)
 
-Complete your blog posts and post two comments by the end of class time (**Friday 1.10pm for Section A; Friday 5.40pm for Section B**). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
+Complete your blog posts and post two comments by the end of class time (**Friday 1.10pm for Section A; Friday 5.40pm for Section B**). Update your url links to the blog posts and comments on the tracker and on Gradescope.
 
 Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
-We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
+We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit).
 
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all 6 assigments and 10 blog posts. 
+- Complete all 6 assigments and 10 blog posts.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date 
+- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
 
 ## Make School Course Policies
 
