@@ -22,9 +22,9 @@ This platform will be used for Q&As during check-in activities and burning quest
 
 **My Personal Slack**: @reginayoong
 
-If  you have questions your classmates and TA (@Lauren Dutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
+If you have questions your classmates and TA (@LaurenDutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
 
-**My Email**: regina@makeschool.com
+**My Email**:regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
 
@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 
 1. Produce creative writing using a variety of methods
 1. Develop and apply skills of creative insight and critical thinking
-1. Acquire and refine skills in the craft of writing in various forms and genrest
+1. Acquire and refine skills in the craft of writing in various forms and genres
 1. Gain basic knowledge of writing in a broader social context
 1. Form personal relationship to creative process and methods to generate new writing
 
