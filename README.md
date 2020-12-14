@@ -24,6 +24,8 @@ This platform will be used for Q&As during check-in activities and burning quest
 
 If you have questions your classmates and TA (@LaurenDutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
 
+You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally. 
+
 **My Email**:regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
@@ -104,11 +106,18 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
 
+## [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)
+
+Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age, socioeconomic status, culture, political conviction, religion, or disability. We are committed to creating an environment in which every individual can work, study, and live without feeling excluded, unsafe, or harassed.
+
+During classrooms discussions, you may encounter opposing and different views with your classmates, and that is totally fine. In fact, I welcome a diverse array of opinions. Part of a healthy discussion is being able to discuss those differences clearly and respectfully. Sometimes, you may think your classmates' questions are “stupid,” but they deserve the same level of respect from you as you wish from them. You can expect me to be fair, and I will not tolerate any hate speech (e.g. any attacks on another person's identity, background, life experiences) in class. If the need arises, I will respectfully ask you to leave the discussion/zoom room. 
+
+Make School’s desire to foster a professional environment that honors the freedom of expression is equally balanced with pursuit to create an inclusive living and learning environment. 
+
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
