@@ -65,16 +65,19 @@ By the end of the course, you will be able to ...
 | 11 |  Fri, Apr 16               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_316) | Blog Post 10 |
 | 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
 | 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |- |
-| 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
+| 14 |  Wed, May 5                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
+
+**Wed, May 5, 11.59pm PST is the final day to submit all late assignments for the semester**
 
 ## Assignment Schedule
+All assignments are due **11.59pm PST** on the due date stated. 
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
 | [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 5 |  Fri, Feb 12 |
 | [Assignment 2](https://docs.google.com/document/d/165I7ImfrMESelkbtQK2Q2mRyxZCS36sCQwruQxscbN0/edit?usp=sharing) |  Fri, Feb 5 | Fri, Feb 19  |
 | [Assignment 3](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 19   |
-| [Assignment 4](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 26 (50% Draft); Fri, May 7 (Final Draft) |
+| [Assignment 4](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 26 (50% Draft); Wed, May 5 (Final Draft) |
 | [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 23   |
 | [Assignment 6](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 23   |  Fri, Apr 30 |
 
