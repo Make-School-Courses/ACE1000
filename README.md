@@ -74,12 +74,11 @@ All assignments are due **11.59pm PST** on the due date stated.
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 5 |  Fri, Feb 12 |
-| [Assignment 2](https://docs.google.com/document/d/165I7ImfrMESelkbtQK2Q2mRyxZCS36sCQwruQxscbN0/edit?usp=sharing) |  Fri, Feb 12 | Fri, Feb 19  |
-| [Assignment 3](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Mar 5    |  Fri, Mar 19   |
-| [Assignment 4](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Mar 19    |  Fri, Mar 26 (50% Draft); Mon, May 10 (Final Draft) |
-| [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 16   |
-| [Assignment 6](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 16   |  Fri, Apr 30 |
+| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 12 |  Fri, Feb 26 |
+| [Assignment 2](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Mar 5    |  Fri, Mar 19   |
+| [Assignment 3](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Mar 19    |  Fri, Mar 26 (50% Draft); Mon, May 10 (Final Draft) |
+| [Assignment 4](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 16   |
+| [Assignment 5](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 16   |  Fri, Apr 30 |
 
 ## Class Assignments
 
