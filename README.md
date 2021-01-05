@@ -124,4 +124,5 @@ Make School’s desire to foster a professional environment that honors the free
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
