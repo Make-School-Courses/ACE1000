@@ -24,6 +24,8 @@ This platform will be used for Q&As during check-in activities and burning quest
 
 If you have questions your classmates and TA (@LaurenDutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
 
+You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally. 
+
 **My Email**:regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
@@ -63,18 +65,20 @@ By the end of the course, you will be able to ...
 | 11 |  Fri, Apr 16               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_316) | Blog Post 10 |
 | 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
 | 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |- |
-| 14 |  Fri, May 7                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
+| 14 |  Fri, May 12                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
+
+**Wed, May 12, 11.59pm PST is the final day to submit all late assignments for the semester**
 
 ## Assignment Schedule
+All assignments are due **11.59pm PST** on the due date stated. 
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 5 |  Fri, Feb 12 |
-| [Assignment 2](https://docs.google.com/document/d/165I7ImfrMESelkbtQK2Q2mRyxZCS36sCQwruQxscbN0/edit?usp=sharing) |  Fri, Feb 5 | Fri, Feb 19  |
-| [Assignment 3](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 19   |
-| [Assignment 4](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Feb 26    |  Fri, Mar 26 (50% Draft); Fri, May 7 (Final Draft) |
-| [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 23   |
-| [Assignment 6](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 23   |  Fri, Apr 30 |
+| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) |  Fri, Feb 12 |  Fri, Feb 26 |
+| [Assignment 2](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Mar 5    |  Fri, Mar 19   |
+| [Assignment 3](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Mar 19    |  Fri, Mar 26 (50% Draft); Mon, May 10 (Final Draft) |
+| [Assignment 4](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 9  |  Fri, Apr 16   |
+| [Assignment 5](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 16   |  Fri, Apr 23 Script Due; Fri, Apr 30 Performance |
 
 ## Class Assignments
 
@@ -88,9 +92,9 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1qAqPg_XIJndRoJuoI-EC1LPx_kYBogdgcW5nBoOFzUw/edit?usp=sharing)
 
-Complete your blog posts and post two comments by the end of class time (**Friday 1.10pm for Section A; Friday 5.40pm for Section B**). Update your url links to the blog posts and comments on the tracker and on Gradescope.
+Complete your blog posts and post a comment to your classmates' post by the end of class time (**Friday 1.10pm for Section A; Friday 5.40pm for Section B**). 
 
-Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
+Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them).Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
 We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit).
 
@@ -104,13 +108,21 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
 
+**[Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)**
+
+Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age, socioeconomic status, culture, political conviction, religion, or disability. We are committed to creating an environment in which every individual can work, study, and live without feeling excluded, unsafe, or harassed.
+
+During classrooms discussions, you may encounter opposing and different views with your classmates, and that is totally fine. In fact, I welcome a diverse array of opinions. Part of a healthy discussion is being able to discuss those differences clearly and respectfully. Sometimes, you may think your classmates' questions are “stupid,” but they deserve the same level of respect from you as you wish from them. You can expect me to be fair, and I will not tolerate any hate speech (e.g. any attacks on another person's identity, background, life experiences) in class. If the need arises, I will respectfully ask you to leave the discussion/zoom room. 
+
+Make School’s desire to foster a professional environment that honors the freedom of expression is equally balanced with pursuit to create an inclusive living and learning environment. 
+
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
