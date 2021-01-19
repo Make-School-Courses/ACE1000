@@ -46,7 +46,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Friday, January 22 – Friday, May 7, 2020 (17 weeks)
 
-**Class Times:** Friday at 9:30am–1:10pm (14 class sessions)
+**Class Times:** Friday at 9:30am–1:10pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |                 Class Work Assigned             |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -65,9 +65,10 @@ By the end of the course, you will be able to ...
 | 11 |  Fri, Apr 16               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_316) | Blog Post 10 |
 | 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
 | 13 |  Fri, Apr 30               | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gaddebc3e49_0_5) |- |
-| 14 |  Fri, May 12                | **No Class - Finals Week (Submit Assignment 4:Short Story)**  |- |
+| 14 |  Fri, May 7                | TBD  |- |
+| 15 |  Fri, May 14               | **No Class - Finals Week (Submit Assignment 4:Short Story)** |- |
 
-**Wed, May 12, 11.59pm PST is the final day to submit all late assignments for the semester**
+**Wed, May 14, 5.00pm PST is the final day to submit all late assignments for the semester**
 
 ## Assignment Schedule
 All assignments are due **11.59pm PST** on the due date stated. 
