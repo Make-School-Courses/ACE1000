@@ -68,7 +68,7 @@ By the end of the course, you will be able to ...
 | 14 |  Fri, May 7                | TBD  |- |
 | 15 |  Fri, May 14               | **No Class - Finals Week (Submit Assignment 4:Short Story)** |- |
 
-**Wed, May 14, 5.00pm PST is the final day to submit all late assignments for the semester**
+**Friday, May 14, 5.00pm PST is the final day to submit all late assignments for the semester**
 
 ## Assignment Schedule
 All assignments are due **11.59pm PST** on the due date stated. 
