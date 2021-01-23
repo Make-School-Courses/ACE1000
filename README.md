@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |                 Class Work Assigned             |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Fri, Jan 22               | [Creative Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.ga82a6e1129_0_5) | Blog Post 1 |
+|  1 |  Fri, Jan 22               | [Creative Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.ga82a6e1129_0_5) | [Blog Post 1](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g8fb4e3098d_0_47) |
 |  2 |  Fri, Jan 29               | [What is Poetry?](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_268) | Blog Post 2 |
 |  3 |  Fri, Feb 5                | [Concrete & Nature Poetry](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_246) | Blog Post 3 |
 |  4 |  Fri, Feb 12               | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) | Blog Post 4 |
@@ -104,7 +104,7 @@ We will use Medium to write the blog posts. Here is the blog posts [rubric](http
 
 To pass this course you must meet the following requirements:
 
-- Complete all 6 assigments and 10 blog posts.
+- Complete all 5 assigments and 10 blog posts.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
