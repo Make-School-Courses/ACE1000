@@ -51,7 +51,7 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |                 Class Work Assigned             |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Fri, Jan 22               | [Creative Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.ga82a6e1129_0_5) | [Blog Post 1](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g8fb4e3098d_0_47) |
-|  2 |  Fri, Jan 29               | [What is Poetry?](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_268) | Blog Post 2 |
+|  2 |  Fri, Jan 29               | [What is Poetry?](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_268) | [Blog Post 2](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g927f9803df_0_5) |
 |  3 |  Fri, Feb 5                | [Concrete & Nature Poetry](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_246) | Blog Post 3 |
 |  4 |  Fri, Feb 12               | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) | Blog Post 4 |
 |  5 |  Fri, Feb 19               | [Narrative Poetry II](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_107) | Blog Post 5 |
