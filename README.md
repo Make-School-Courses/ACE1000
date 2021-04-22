@@ -61,11 +61,11 @@ By the end of the course, you will be able to ...
 | 8  |  Fri, Mar 19               | [Short Stories II](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g9dd8992a41_15_5) | - |
 | 9 |   Fri, Mar 26               | **Asynchronous Class Updates on Slack** | - |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |- |
-| 10 |  Fri, Apr 9                | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) | Blog Post 7 |
-| 11 |  Fri, Apr 16               | [Telling a Story](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_5) | Peer Reviews |
+| 10 |  Fri, Apr 9                | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) | [Blog Post 7](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_136) |
+| 11 |  Fri, Apr 16               | [Telling a Story](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_5) | [Peer Reviews](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_35) |
 | 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gcd3f9c2469_0_106)  | - |
 | 13 |  Fri, Apr 30               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
-| 14 |  Fri, May 7                | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.addebc3e49_0_5)  |- |
+| 14 |  Fri, May 7                | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.addebc3e49_0_5)  | Blog Post 8: Reflection |
 | 15 |  Fri, May 14               | **No Class - Finals Week (Submit Assignment 3 and 5 by May 10)** |- |
 
 **Friday, May 14, 5.00pm PST is the final day to submit all late assignments for the semester**
