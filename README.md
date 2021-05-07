@@ -65,7 +65,7 @@ By the end of the course, you will be able to ...
 | 11 |  Fri, Apr 16               | [Telling a Story](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_5) | [Peer Reviews](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_35) |
 | 12 |  Fri, Apr 23               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gcd3f9c2469_0_106)  | - |
 | 13 |  Fri, Apr 30               | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gb0b4166731_0_271) |- |
-| 14 |  Fri, May 7                | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.addebc3e49_0_5)  | Blog Post 8: Reflection |
+| 14 |  Fri, May 7                | [Drama Performance Week](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.addebc3e49_0_5)  | [Blog Post 8: Reflection](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.ga5cce569aa_0_0) |
 | 15 |  Fri, May 14               | **No Class - Finals Week (Submit Assignment 3 and 5 by May 10)** |- |
 
 **Friday, May 14, 5.00pm PST is the final day to submit all late assignments for the semester**
@@ -79,7 +79,7 @@ All assignments are due **11.59pm PST** on the due date stated.
 | [Assignment 2](https://docs.google.com/document/d/1sEh0ZZG6vIwwgFgrcY1BCsETsyNbf7X44QDVj4glsTk/edit?usp=sharing) |  Fri, Mar 5    |  Fri, Mar 19   |
 | [Assignment 3](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) |  Fri, Mar 26    |  Fri, Apr 9 (50% Draft); Mon, May 10 (Final Draft) |
 | [Assignment 4](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Fri, Apr 23  | Fri, Apr 30 Script Due; Fri, May 7 Performance   |
-| [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 30   | Fri, May 10  |
+| [Assignment 5](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit?usp=sharing) |  Fri, Apr 30   | Fri, May 14  |
 
 ## Class Assignments
 
