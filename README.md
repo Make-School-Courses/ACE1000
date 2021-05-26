@@ -32,7 +32,7 @@ Email me regarding late submissions requests and/or explanations of extenuating 
 
 **Course Delivery**: online | 17 weeks | 14 sessions
 
-**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours.
+**Course Credits**: S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
 
 ## Learning Outcomes
 
