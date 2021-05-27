@@ -125,16 +125,15 @@ Your Gradescope login is your Make School email, and your password can be change
 
 Complete your blog posts and post a comment to your classmates' post by the end of class time (**Friday 2.15pm for Section A; Thursday 5.30pm for Section B**). 
 
-Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them).Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
+Update your url links to your blog posts and comment on the **blog post tracker**. Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
-We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit).
-
+We will use Medium/Google Docs to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit).
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all 5 assigments and 10 blog posts.
+- Complete all 3 assigments and 7 blog posts
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
