@@ -58,18 +58,18 @@ By the end of the course, you will be able to ...
 |  4 |  Fri, June 11        | [Live Small Group Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gb9701bc47f_0_86) |[Reading, Reflections, Rendering](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gbb3e99e86a_0_0)|
 |  5 |  Wed, June 16        | [Concrete & Nature Poetry](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_246) | [Blog Post 3](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gbb503915e4_0_111) |
 |  6 |  Fri, June 18        | [Live Small Group Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9344a90629_0_31)  |[Interview a Storyteller](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit)|
-|  7 |  Wed, June 23        | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) | [Blog Post 4](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gbcdc0e21fd_1_42) |
+|  7 |  Wed, June 23        | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) | [Blog Post 4](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gbcdc0e21fd_1_42) |-|
 |  8 |  Fri, June 25        | [Guided Live Group Discussion](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gba5c0bee68_42_48) | Presentation on storyteller|
-|  9 |  Wed, June 30        | Individual Check-in (No Class) |
-| 10 |  Fri, July 2         | Individual Check-in (No Class) |
+|  9 |  Wed, June 30        | Individual Check-in (No Class) |-|
+| 10 |  Fri, July 2         | Individual Check-in (No Class) |-|
 | 11 |  Wed, July 7         | [What is Prose?](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g98b76e4428_0_128)| [Blog Post 5](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gbf361c0850_1_373) |
-| 12 |  Fri, July 9        | [Live Small Group Writing](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gbf361c0850_1_210) |Read ["The Story of An Hour"](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gc3043a30c7_2_167)|
+| 12 |  Fri, July 9        | [Live Small Group Writing](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gbf361c0850_1_210) |Read ["The Story of An Hour"](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gc3043a30c7_2_167)|-|
 | 13 |  Wed, July 14        | [Short Stories I](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g99de43c480_1_5) | Read ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) |
 | 14 |  Fri, July 16        | [Guided Live Group Discussion](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g99de43c480_1_9)| 50% Short Story Draft Due|
 | 15 |  Wed, July 21        | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) | [Blog Post 6](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_136) & [Performance Outline](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gac683d99d1_0_21) |
 | 16 |  Fri, July 23        | [Structured Peer Review](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_35)  |Watch ["Hamilton"](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd04ff3b2f0_0_32)|
 | 17 |  Wed, July 28        | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gcd3f9c2469_0_106)|[Blog Post 7: Reflection](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.ga5cce569aa_0_0)
-| 18 |  Fri, July 30        | Submit Short Story & Staged Performance |
+| 18 |  Fri, July 30        | Submit Short Story & Staged Performance |-|
 
 **Friday, July 30, 5.00pm PST is the final day to submit all late assignments for the summer**
 
@@ -89,8 +89,8 @@ By the end of the course, you will be able to ...
 |  6 |  Thu, June 17        | [Live Small Group Writing](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9344a90629_0_31) |[Interview a Storyteller](https://docs.google.com/document/d/1N2y3Xb3tPwooGbzuMvMDXkRo1srpcPuDL5V4gbHZ6Qk/edit)|
 |  7 |  Tue, June 22        | [Narrative Poetry I](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.g9685c11717_2_5) | [Blog Post 4](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gbcdc0e21fd_1_42) |
 |  8 |  Thu, June 24        | [Guided Live Group Discussion](https://docs.google.com/presentation/d/1ic1yKLcf6gEEAylsp5oWgj2zT11kUAYXfoxuF3CqzRY/edit#slide=id.gba5c0bee68_42_48) | Presentation on storyteller|
-|  9 |  Tue, June 29        | Individual Check-in (No Class) |
-| 10 |  Thu, July 1         | Individual Check-in (No Class) |
+|  9 |  Tue, June 29        | Individual Check-in (No Class) |-|
+| 10 |  Thu, July 1         | Individual Check-in (No Class) |-|
 | 11 |  Tue, July 6         | [What is Prose?](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.g98b76e4428_0_128)| [Blog Post 5](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gbf361c0850_1_373) |
 | 12 |  Thu, July 8         | [Live Small Group Writing](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gbf361c0850_1_210) |Read ["The Story of An Hour"](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gc3043a30c7_2_167)|
 | 13 |  Tue, July 13        | [Short Stories I](https://docs.google.com/presentation/d/1CDb3o_VWnDF4mlmkYqwZMzm-eMCKgmNfRRg8Bi_o5E4/edit#slide=id.gc3043a30c7_2_140) | Read ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) |
@@ -98,7 +98,7 @@ By the end of the course, you will be able to ...
 | 15 |  Tue, July 20        | [What is Drama?](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_74) | [Blog Post 6](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.g9f8180396e_0_136) & [Performance Outline](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gac683d99d1_0_21) |
 | 16 |  Thu, July 22        | [Structured Peer Review](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd102d5f78e_2_35)  | Watch ["Hamilton"](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gd04ff3b2f0_0_32)|
 | 17 |  Tue, July 27        | [Hamilton: An American Musical](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.gcd3f9c2469_0_106)|[Blog Post 7: Reflection](https://docs.google.com/presentation/d/1iSO0fPZuax-d9AhU-eAKdc_oPXwbu74fwBifHuicX3o/edit#slide=id.ga5cce569aa_0_0)
-| 18 |  Thu, July 29        | [Submit Short Story & Staged Performance] |
+| 18 |  Thu, July 29        | Submit Short Story & Staged Performance |-|
 
 **Friday, July 30, 5.00pm PST is the final day to submit all late assignments for the summer**
 
