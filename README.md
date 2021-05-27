@@ -107,9 +107,9 @@ All assignments are due **5.00pm PST** on the due date stated.
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1](https://docs.google.com/document/d/1nb-KCvuDi44QMUt4PrUod6ehfeY56dkoa2xDocL3mQg/edit?usp=sharing) | June 18-19 |  Fri, Jul 2 |
-| [Assignment 2](https://docs.google.com/document/d/1P4WoSFTrcwqAfZ9ts2flVYSwDcYn8Af9y0CGV96JFjw/edit?usp=sharing) | Jul 8-9  | 50% Draft Due (Section A: Friday, Jul 18; Section B: Thursday, Jul 17); Final Draft Fri, Jul 30 ) |
-| [Assignment 3](https://docs.google.com/document/d/1YPnCVVVrTasoNRQ2OQumUq2EWviKYA36xZf4wsmjQTs/edit?usp=sharing) |  Jul 20-21 | Fri, Jul 30 Performance Submission |
+| [Assignment 1](https://docs.google.com/document/d/14C0fzNseuB8ZIo5XFyqHmk-FVcXDWG-6t31C1RF7Bzc/edit?usp=sharing) | June 18-19 |  Fri, Jul 2 |
+| [Assignment 2](https://docs.google.com/document/d/1wiqazCPXDNWdMG2Z8hvnMGUhg8ACdWT8nSPxOrwQ1RY/edit?usp=sharing) | Jul 8-9  | 50% Draft Due (Section A: Friday, Jul 18; Section B: Thursday, Jul 17); Final Draft Fri, Jul 30 ) |
+| [Assignment 3](https://docs.google.com/document/d/1_l9psJy4xZ-CRyUxhFjHSsFcLlJxasp0FADGhMTwZn4/edit?usp=sharing) |  Jul 20-21 | Fri, Jul 30 Performance Submission |
 
 ## Class Assignments
 
