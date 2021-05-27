@@ -22,7 +22,7 @@ This platform will be used for Q&As during check-in activities and burning quest
 
 **My Personal Slack**: @reginayoong
 
-If you have questions your classmates and TA (@Ashab Siddiqui) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
+If you have questions your classmates and TA (@Christopher Mullins) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack.
 
 You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally. 
 
@@ -103,7 +103,7 @@ By the end of the course, you will be able to ...
 **Friday, July 30, 5.00pm PST is the final day to submit all late assignments for the summer**
 
 ## Assignment Schedule
-All assignments are due **11.59pm PST** on the due date stated. 
+All assignments are due **5.00pm PST** on the due date stated. 
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
