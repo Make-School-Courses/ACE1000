@@ -16,7 +16,7 @@ In this course, we will explore the many forms of creative writing, including po
 
 **Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom)
 
-**Slack Channel**: Section A: #creativewriting1-spring-2021; Section B: #creativewriting2-spring2021
+**Slack Channel**: Section A: #creativewriting1-summer21; Section B: #creativewriting2-summer21
 
 This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., "Where is the teaching slides?" or "What time is class again?"
 
